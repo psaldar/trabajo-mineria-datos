@@ -1,0 +1,37 @@
+# ignorar:
+
+# Ipython notebook checkpoints
+.ipynb_checkpoints/*
+notebooks/.ipynb_checkpoints/*
+
+*.sav
+
+# Byte-compiled / optimized / DLL files:
+/__pycache__/*
+*.py[cod]
+
+data/models/*
+
+scripts/Lme/.Rhistory
+
+# logs
+logs/*
+*.log
+
+# Archivos html
+*.html
+
+# Archivos pesados
+data/darksky_key.json
+
+# Bases de datos sqlite
+*.sqlite3
+
+Anteproyecto/data/*
+
+# Archivos irrelevantes
+*.json
+*.nc
+
+# Archivos pesados csv
+*.csv
