@@ -1,5 +1,5 @@
 ## Trabajo final - Proyecto Sistemas de recomendación para un marketplace: modelos con información historica y cold start (productos nuevos)
-=======================================================================================
+============================================================================
 
 ### "Minería de datos para grandes volúmenes de información"
 
@@ -20,4 +20,5 @@ El desarrollo de la entrega final inicia realizando limpieza y muestreo de los d
 
 Adicionalmente, en este repositorio en la carpeta “Anteproyecto”, se pueden encontrar el notebook que presenta la viabilidad de la creación de un sistema de recomendación, para esto se sacó una muestra de los reviews de una categoría de producto y se construyó el sistema. Para ejecutar este notebook, se puede descargar la información ya filtrada del siguiente link de Google drive: https://drive.google.com/drive/folders/1Obo2lWQBfDTinmSyPAddNiOzT2BXZnvP?usp=sharing
 
+En la carpeta Documentos se pueden encontrar los archivos en PDF entregados en este proyecto.
 
